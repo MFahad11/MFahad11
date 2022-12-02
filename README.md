@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
 <h3 align="center">A MERN stack developer, exploring web3</h3>
 
