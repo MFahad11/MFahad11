@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfahad11&label=Profile%20views&color=0e75b6&style=flat" alt="mfahad11" /> </p>
 
-- 🌱 I’m currently learning **NEXT JS, Web 3**
+- 🌱 I’m currently exploring **BLockchain & Web 3**
 
 - 📫 How to reach me **fahadahad567@gmail.com**
 
