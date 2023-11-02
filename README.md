@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fahadahad567@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/flnsw](shorturl.at/flnsw)
+- 📄 Know about my experiences [[shorturl.at/flnsw](shorturl.at/flnsw)](https://mfahad-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
